@@ -344,7 +344,7 @@ export default function LandingPage() {
                 </li>
               </ul>
               <Link
-                href="https://github.com/vas3k/TaxHacker"
+                href="https://github.com/MeAkash77/TaxHacker-UK-AI-Powered-UK-Tax-Compliance-Reporting-Platform"
                 target="_blank"
                 className={`block w-full text-center ${primaryButton}`}
               >
@@ -497,12 +497,12 @@ export default function LandingPage() {
 
       <footer className="py-8 px-8 bg-white border-t border-orange-100">
         <div className="max-w-7xl mx-auto text-center text-sm text-gray-500">
-          Made with ❤️ in Berlin by{" "}
+          Made with ❤️ by{" "}
           <Link
-            href="https://github.com/vas3k"
+            href="https://github.com/MeAkash77"
             className="underline font-semibold hover:text-orange-600 transition-colors"
           >
-            @vas3k
+            @akash77
           </Link>
         </div>
 
@@ -537,7 +537,7 @@ export default function LandingPage() {
                 Cookie Policy
               </Link>
               <Link
-                href="https://github.com/vas3k/TaxHacker"
+                href="https://github.com/MeAkash77/TaxHacker-UK-AI-Powered-UK-Tax-Compliance-Reporting-Platform"
                 target="_blank"
                 className="text-sm text-gray-500 hover:text-orange-600 font-medium transition-colors"
               >
