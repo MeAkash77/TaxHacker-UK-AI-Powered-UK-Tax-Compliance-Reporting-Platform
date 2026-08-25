@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": "next dev -p 7331 --turbopack",
-    "build": "next build",
+    "build": "prisma generate && next build",
     "start": "prisma migrate deploy && next start",
     "lint": "eslint .",
     "email:sync": "tsx \"app/(app)/apps/email/scripts/fetch-emails.ts\"",
